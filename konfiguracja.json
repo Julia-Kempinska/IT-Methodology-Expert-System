@@ -1,0 +1,47 @@
+{
+  "weights": {
+    "stabilnosc_wymagan": 1.2,
+    "zlozonosc_problemu": 1.0,
+    "mozliwosc_podzialu": 1.1,
+    "wplyw_biznesowy": 1.1,
+    "stabilnosc_technologii": 1.0,
+    "zaangazowanie_klienta": 1.2,
+    "kultura_organizacyjna": 1.3,
+    "presja_czasu": 1.0,
+    "doswiadczenie_agile": 0.8,
+    "autonomia_zespolu": 1.1,
+    "eliminacja_marnotrawstwa": 1.4,
+    "zarzadzanie_przeplywem": 1.4,
+    "strumien_wartosci": 1.3
+  },
+  "profiles": {
+    "Predyktywny": {
+      "stabilnosc_wymagan": 5, "zlozonosc_problemu": 1, "mozliwosc_podzialu": 1,
+      "wplyw_biznesowy": 5, "stabilnosc_technologii": 5, "zaangazowanie_klienta": 1,
+      "kultura_organizacyjna": 1, "presja_czasu": 1, "doswiadczenie_agile": 1,
+      "autonomia_zespolu": 1, "eliminacja_marnotrawstwa": 1, "zarzadzanie_przeplywem": 1,
+      "strumien_wartosci": 1
+    },
+    "Zwinny (Agile)": {
+      "stabilnosc_wymagan": 1, "zlozonosc_problemu": 5, "mozliwosc_podzialu": 5,
+      "wplyw_biznesowy": 3, "stabilnosc_technologii": 3, "zaangazowanie_klienta": 5,
+      "kultura_organizacyjna": 5, "presja_czasu": 5, "doswiadczenie_agile": 5,
+      "autonomia_zespolu": 5, "eliminacja_marnotrawstwa": 4, "zarzadzanie_przeplywem": 3,
+      "strumien_wartosci": 3
+    },
+    "Hybrydowy": {
+      "stabilnosc_wymagan": 3, "zlozonosc_problemu": 4, "mozliwosc_podzialu": 4,
+      "wplyw_biznesowy": 4, "stabilnosc_technologii": 4, "zaangazowanie_klienta": 3,
+      "kultura_organizacyjna": 3, "presja_czasu": 4, "doswiadczenie_agile": 3,
+      "autonomia_zespolu": 3, "eliminacja_marnotrawstwa": 3, "zarzadzanie_przeplywem": 3,
+      "strumien_wartosci": 3
+    },
+    "Szczupły (Lean)": {
+      "stabilnosc_wymagan": 3, "zlozonosc_problemu": 4, "mozliwosc_podzialu": 5,
+      "wplyw_biznesowy": 4, "stabilnosc_technologii": 4, "zaangazowanie_klienta": 4,
+      "kultura_organizacyjna": 5, "presja_czasu": 5, "doswiadczenie_agile": 3,
+      "autonomia_zespolu": 5, "eliminacja_marnotrawstwa": 5, "zarzadzanie_przeplywem": 5,
+      "strumien_wartosci": 5
+    }
+  }
+}
